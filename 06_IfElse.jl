@@ -13,10 +13,10 @@ module IfElse
     num = 9
     if num < 0
       println(num, " is negative")
-    
     end
   end
+end
 
-  if abspath(PROGRAM_FILE) == @__FILE__
-    IfElse.main()
-  end
+if abspath(PROGRAM_FILE) == @__FILE__
+  IfElse.main()
+end
