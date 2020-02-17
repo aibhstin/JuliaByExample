@@ -13,3 +13,4 @@ Created as a way of learning the Julia programming language. Essentially aims to
 
 [06_IfElse.jl](https://github.com/aibhstin/JuliaByExample/blob/master/06_IfElse.jl)
 
+[07_Switch.jl](https://github.com/aibhstin/JuliaByExample/blob/master/07_Switch.jl)
