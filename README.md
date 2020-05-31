@@ -16,3 +16,5 @@ Created as a way of learning the Julia programming language. Essentially aims to
 [07_Switch.jl](https://github.com/aibhstin/JuliaByExample/blob/master/07_Switch.jl)
 
 [08_Arrays.jl](https://github.com/aibhstin/JuliaByExample/blob/master/08_Arrays.jl)
+
+[09_Slices.jl](https://github.com/aibhstin/JuliaByExample/blob/master/09_Slices.jl)
